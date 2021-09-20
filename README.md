@@ -4,7 +4,7 @@
 
 ## I am a Full-Stack Software Developer primarily focused on Javascript and Python
 
-- 📘 I am a Life Long Student
+- 📘 I am a Life Long Learner
 - 🔭 I am Currently Learning Typescript and Angylar
 - 😎 I love to make fun and interesting projects
 - 👨‍🎓 Currently Studying M.Sc. Physics
