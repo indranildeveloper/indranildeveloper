@@ -12,19 +12,19 @@
 
 ### 📲 Connect With Me:
 
-<a href="https://www.linkedin.com/in/indranildeveloper/">
+<a href="https://www.linkedin.com/in/indranildeveloper/" target="_blank">
 <img align="left" src="./img/main/linkedin.png" width="30px" />
 </a>
 <a href="mailto:indranilhalder.dev@gmail.com">
 <img align="left" src="./img/main/gmail.png" width="30px" />
 </a>
-<a href="https://twitter.com/indranilcoder/">
+<a href="https://twitter.com/indranilcoder/" target="_blank">
 <img align="left" src="./img/main/twitter.png" width="30px" />
 </a>
-<a href="https://www.instagram.com/indranil__halder/">
+<a href="https://www.instagram.com/indranil__halder/" target="_blank">
 <img align="left" src="./img/main/instagram.png" width="30px" />
 </a>
-<a href="https://www.facebook.com/indranil.halder.7545/">
+<a href="https://www.facebook.com/indranil.halder.7545/" target="_blank">
 <img align="left" src="./img/main/facebook.png" width="30px" />
 </a>
 
