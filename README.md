@@ -54,7 +54,7 @@
 
 ### 🔔 About Me:
 
-Hello I am Indranil Halder. I am a M.Sc. Physics student and random developer who wants to put a dent on the Universe with the super fun and interesting projects I create. Peace✌️
+Hello, I am Indranil Halder. I am an M.Sc. Physics student and a random developer who wants to put a dent in the Universe with the super fun and interesting projects I create. Peace✌️
 
 <hr />
 
