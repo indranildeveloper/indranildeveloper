@@ -70,5 +70,6 @@ alt="indranildeveloper" /> -->
 </a>
 <a href="https://github.com/indranildeveloper">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranildeveloper&layout=compact&langs_count=6&theme=tokyonight"
+height="195"
 alt="indranildeveloper" />
 </a>
