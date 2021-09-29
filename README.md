@@ -60,6 +60,15 @@
 
 ### 📊 My Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=indranildeveloper&show_icons=true&theme=tokyonight" width="500" alt="indranildeveloper"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=indranildeveloper&show_icons=true&theme=tokyonight" alt="indranildeveloper"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranildeveloper&theme=tokyonight" alt="indranildeveloper" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranildeveloper&theme=tokyonight"
+alt="indranildeveloper" /> -->
+
+<a href="https://github.com/indranildeveloper">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=indranildeveloper&show_icons=true&theme=tokyonight" alt="indranildeveloper"/>
+</a>
+<a href="https://github.com/indranildeveloper">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranildeveloper&theme=tokyonight"
+alt="indranildeveloper" />
+</a>
