@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&lines=I+build+full+stack+websites;I+build+single+page+applications;I+build+awesome+experiences)](https://git.io/typing-svg)
 
-<hr />
-
 ## I am a Full Stack Developer who loves JavaScript
 
 - 👨‍🎓 Currently Studying M.Sc. Physics
