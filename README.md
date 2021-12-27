@@ -2,12 +2,16 @@
 
 # Hi there, I am Indranil <img src="./img/main/hi.webp" width="30px" alt="hi" />
 
-## I am a Full-Stack Software Developer primarily focused on Javascript and Python
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&lines=I+build+full+stack+websites;I+build+single+page+applications;I+build+awesome+experiences)](https://git.io/typing-svg)
 
-- 📘 I am a Life Long Learner
-- 🔭 I am Currently Learning Typescript and Angular
-- 😎 I love to make fun and interesting projects
+<hr />
+
+## I am a Full Stack Developer who loves JavaScript
+
 - 👨‍🎓 Currently Studying M.Sc. Physics
+- 📘 I am a Life Long Learner
+- 🔭 I am Currently Learning Data Science
+- 😎 I love to make fun and interesting projects
 - ⚡ Fun Fact: I love to play Chess
 
 ### 📲 Connect With Me:
@@ -60,15 +64,7 @@
 
 ### 📊 My Github Stats
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=indranildeveloper&show_icons=true&theme=tokyonight" alt="indranildeveloper"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranildeveloper&theme=tokyonight"
-alt="indranildeveloper" /> -->
-
-<a href="https://github.com/indranildeveloper">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=indranildeveloper&show_icons=true&theme=tokyonight" alt="indranildeveloper"/>
-</a>
-<a href="https://github.com/indranildeveloper">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranildeveloper&layout=compact&langs_count=6&theme=tokyonight"
-alt="indranildeveloper" />
-</a>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=indranildeveloper&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=indranildeveloper&theme=tokyonight" />
+</p>
