@@ -1,7 +1,5 @@
 ![Indranil Halder](/img/main/indranil.png)
 
-<!-- <img align="center" alt="Indranil Halder" src="./img/main/indranil.png" /> -->
-
 # Hi there, I am Indranil <img src="./img/main/hi.webp" width="30px" alt="hi" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&lines=I+build+full+stack+websites;I+build+single+page+applications;I+build+awesome+experiences)](https://git.io/typing-svg)
@@ -10,7 +8,7 @@
 
 - 👨‍🎓 Currently Studying M.Sc. Physics
 - 📘 I am a Life Long Learner
-- 🔭 I am Currently Learning Data Science
+- 🔭 I am Currently Learning Typescript and Angular
 - 😎 I love to make fun and interesting projects
 - ⚡ Fun Fact: I love to play Chess
 
@@ -36,9 +34,10 @@
 
 ### 🧰 Languages and Tools:
 
-<code><img height="30" width="30" src="./img/icons/visual-studio-code.svg"></code>
-<code><img height="30" width="30" src="./img/icons/webstorm.svg"></code>
-<code><img height="30" width="30" src="./img/icons/atom.svg"></code>
+<!-- <code><img height="30" width="30" src="./img/icons/visual-studio-code.svg"></code> -->
+<!-- <code><img height="30" width="30" src="./img/icons/webstorm.svg"></code> -->
+<!-- <code><img height="30" width="30" src="./img/icons/atom.svg"></code> -->
+<!-- TODO: Add TypeScript -->
 <code><img height="30" width="30" src="./img/icons/html5.svg"></code>
 <code><img height="30" width="30" src="./img/icons/css-3.png"></code>
 <code><img height="30" width="30" src="./img/icons/javascript.svg"></code>
@@ -64,7 +63,9 @@
 
 ### 📊 My Github Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=indranildeveloper&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=indranildeveloper&theme=tokyonight" />
-</p>
+| ![Indranil's GitHub stats](https://github-readme-stats.vercel.app/api?username=indranildeveloper&theme=tokyonight&show_icons=true) | [![Indranil's GitHub Streak](https://streak-stats.demolab.com?user=indranildeveloper&theme=tokyonight)](https://git.io/streak-stats) |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+
+[![Indranil's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indranildeveloper&layout=compact&theme=tokyonight)](https://github.com/indranildeveloper/github-readme-stats)
+
+
