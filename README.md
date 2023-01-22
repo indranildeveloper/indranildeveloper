@@ -2,9 +2,7 @@
 
 <!-- <img align="center" alt="Indranil Halder" src="./img/main/indranil.png" /> -->
 
-# Hi there, I am Indranil ![Hi](/img/main/hi.webp)
-
-<!-- <img src="./img/main/hi.webp" width="30px" alt="hi" /> -->
+# Hi there, I am Indranil <img src="./img/main/hi.webp" width="30px" alt="hi" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&lines=I+build+full+stack+websites;I+build+single+page+applications;I+build+awesome+experiences)](https://git.io/typing-svg)
 
