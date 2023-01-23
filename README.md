@@ -66,6 +66,6 @@
 | ![Indranil's GitHub stats](https://github-readme-stats.vercel.app/api?username=indranildeveloper&theme=tokyonight&show_icons=true) | [![Indranil's GitHub Streak](https://streak-stats.demolab.com?user=indranildeveloper&theme=tokyonight)](https://git.io/streak-stats) |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 
-[![Indranil's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indranildeveloper&layout=compact&theme=tokyonight)](https://github.com/indranildeveloper/github-readme-stats)
+<!-- [![Indranil's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indranildeveloper&layout=compact&theme=tokyonight)](https://github.com/indranildeveloper/github-readme-stats) -->
 
 
