@@ -8,7 +8,7 @@
 
 - 👨‍🎓 Currently Studying M.Sc. Physics
 - 📘 I am a Life Long Learner
-- 🔭 I am Currently Learning Full Stack Web3 devvelopment
+- 🔭 I am Currently Learning Full Stack Web3 development
 - 😎 I love to make fun and interesting projects
 - ⚡ Fun Fact: I love to play Chess
 
