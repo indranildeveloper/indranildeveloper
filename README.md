@@ -6,11 +6,11 @@
 
 ## I am a Full Stack Developer who loves JavaScript
 
-- 👨‍🎓 Currently Studying M.Sc. Physics
-- 📘 I am a Life Long Learner
-- 🔭 I am Currently Learning Full Stack Web3 development
-- 😎 I love to make fun and interesting projects
-- ⚡ Fun Fact: I love to play Chess
+- 👨‍🎓 Currently Studying Data Structures and Algorithms.
+- 📘 I am a Life Long Learner.
+- 🔭 I am Currently Learning Full Stack development and Machine Learning.
+- 😎 I love to make fun and interesting projects.
+- ⚡ Fun Fact: I love to play Chess.
 
 ### 📲 Connect With Me:
 
@@ -32,15 +32,12 @@
 
 <br />
 
-### 🧰 Languages and Tools:
+### 🧰 Languages and Frameworks:
 
-<!-- <code><img height="30" width="30" src="./img/icons/visual-studio-code.svg"></code> -->
-<!-- <code><img height="30" width="30" src="./img/icons/webstorm.svg"></code> -->
-<!-- <code><img height="30" width="30" src="./img/icons/atom.svg"></code> -->
-<!-- TODO: Add TypeScript -->
 <code><img height="30" width="30" src="./img/icons/html5.svg"></code>
 <code><img height="30" width="30" src="./img/icons/css-3.png"></code>
 <code><img height="30" width="30" src="./img/icons/javascript.svg"></code>
+<code><img height="30" width="30" src="./img/icons/typescript.svg"></code>
 <code><img height="30" width="30" src="./img/icons/nodejs.svg"></code>
 <code><img height="30" width="30" src="./img/icons/python.svg"></code>
 <code><img height="30" width="30" src="./img/icons/django.svg"></code>
@@ -57,7 +54,7 @@
 
 ### 🔔 About Me:
 
-<p>I am a lifelong learner and a Full Stack developer with  specializing in mostly JavaScript, but also write Python, PHP and some other languages. I am currently pursuing Masters Degree in Physics.</p>
+<p>I am a lifelong learner and a Full Stack developer with  specializing in mostly JavaScript, but also write Python, PHP and some other languages.</p>
 
 <hr />
 
@@ -65,7 +62,3 @@
 
 | ![Indranil's GitHub stats](https://github-readme-stats.vercel.app/api?username=indranildeveloper&theme=tokyonight&show_icons=true) | [![Indranil's GitHub Streak](https://streak-stats.demolab.com?user=indranildeveloper&theme=tokyonight)](https://git.io/streak-stats) |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-
-<!-- [![Indranil's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indranildeveloper&layout=compact&theme=tokyonight)](https://github.com/indranildeveloper/github-readme-stats) -->
-
-
